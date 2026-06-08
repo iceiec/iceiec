@@ -144,7 +144,7 @@ I'm always interested in collaborating on exciting projects, discussing new tech
 
 **Feel free to reach out:**
 
-📧 **Email:** your.email@example.com
+📧 **Email:** [Pierre Isaiah Aguinaldo](isaiah.aguinaldo2@gmail.com)
 
 💼 **LinkedIn:** [Pierre Isaiah Aguinaldo](https://www.linkedin.com/in/isaiahaguinaldo/)
 
