@@ -18,7 +18,7 @@
 
 I'm an aspiring Software Engineer and Full-Stack Developer with a passion for creating elegant solutions to complex problems. I love exploring new technologies and continuously improving my craft through personal projects and collaborative work. Driven by curiosity and committed to writing clean, maintainable code that makes a real impact.
 
----
+<!-- --- -->
 
 <!-- ## 📊 GitHub Statistics -->
 
@@ -102,7 +102,7 @@ I'm an aspiring Software Engineer and Full-Stack Developer with a passion for cr
 
 ---
 
-## 🛠️ Detailed Skill Set
+<!-- ## 🛠️ Detailed Skill Set
 <!-- 
 ### **Frontend Skills**
 - UI/UX Design & Implementation
@@ -137,15 +137,15 @@ I'm an aspiring Software Engineer and Full-Stack Developer with a passion for cr
 
 --- -->
 
-## 📈 Current Learning Path
+<!-- ## 📈 Current Learning Path
 
 🌱 Currently exploring:
 - **Advanced System Design** - Building scalable architectures
 - **Cloud Computing** - AWS certification preparation
 - **Machine Learning** - Python-based ML fundamentals
-- **DevOps** - Docker and Kubernetes orchestration
+- **DevOps** - Docker and Kubernetes orchestration -->
 
----
+<!-- --- --> -->
 
 ## 💬 Let's Connect!
 
