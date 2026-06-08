@@ -34,9 +34,9 @@ I'm an aspiring Software Engineer and Full-Stack Developer with a passion for cr
 
 ---
 
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceiec&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceiec&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceiec&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceiec&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iceiec&theme=radical&hide_border=true)
 
