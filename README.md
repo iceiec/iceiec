@@ -24,9 +24,6 @@ I'm an aspiring Software Engineer and Full-Stack Developer with a passion for cr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceiec&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceiec&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iceiec&theme=radical&hide_border=true)
 
@@ -94,7 +91,7 @@ I'm an aspiring Software Engineer and Full-Stack Developer with a passion for cr
 ---
 
 ## 🛠️ Detailed Skill Set
-
+<!-- 
 ### **Frontend Skills**
 - UI/UX Design & Implementation
 - Responsive Web Design
@@ -126,7 +123,7 @@ I'm an aspiring Software Engineer and Full-Stack Developer with a passion for cr
 - Agile Development
 - Testing & Debugging
 
----
+--- -->
 
 ## 📈 Current Learning Path
 
