@@ -32,7 +32,6 @@ I'm an aspiring Software Engineer and Full-Stack Developer with a passion for cr
 
 ---
 
----
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceiec&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
