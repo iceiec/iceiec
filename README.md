@@ -24,6 +24,21 @@ I'm an aspiring Software Engineer and Full-Stack Developer with a passion for cr
 
 <div align="center">
 
+### iceiec's GitHub Stats
+
+**Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/iceiec?style=flat-square&label=Stars)
+
+**Followers:** ![Followers](https://img.shields.io/github/followers/iceiec?style=flat-square&label=Followers)
+
+**Public Repos:** ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/iceiec&query=public_repos&label=Public%20Repos&color=blue&style=flat-square)
+
+---
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceiec&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceiec&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iceiec&theme=radical&hide_border=true)
 
