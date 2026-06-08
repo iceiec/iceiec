@@ -26,52 +26,17 @@ I'm an aspiring Software Engineer and Full-Stack Developer with a passion for cr
 
 ### iceiec's GitHub Stats
 
-**Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/iceiec?style=flat-square&label=Stars)
 
-**Followers:** ![Followers](https://img.shields.io/github/followers/iceiec?style=flat-square&label=Followers)
 
 **Public Repos:** ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/iceiec&query=public_repos&label=Public%20Repos&color=blue&style=flat-square)
 
 ---
 
-<table>
-<tr>
-<td align="center">
-<strong>559+</strong><br/>
-Total Contributions<br/>
-<sub>May 17, 2022 - Present</sub>
-</td>
-<td align="center">
-<strong>0</strong><br/>
-Current Streak 🔥<br/>
-<sub>Jun 8</sub>
-</td>
-<td align="center">
-<strong>12</strong><br/>
-Longest Streak<br/>
-<sub>Sep 27 - Oct 8, 2025</sub>
-</td>
-</tr>
-</table>
-
 ---
 
-### Most Used Languages
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceiec&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-| Language | Percentage |
-|:--------:|:----------:|
-| 🔵 PHP | 37.96% |
-| 🟠 Java | 30.69% |
-| 🔴 HTML | 15.21% |
-| 🟣 CSS | 6.34% |
-| 🔷 Python | 5.41% |
-| 🔶 Ruby | 4.39% |
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceiec&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceiec&theme=tokyonight&hide_border=true&layout=compact)
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceiec&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iceiec&theme=radical&hide_border=true)
 
