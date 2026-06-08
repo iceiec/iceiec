@@ -22,7 +22,7 @@ I'm an aspiring Software Engineer and Full-Stack Developer with a passion for cr
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
 
 ### iceiec's GitHub Stats
 
@@ -39,7 +39,7 @@ I'm an aspiring Software Engineer and Full-Stack Developer with a passion for cr
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iceiec&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width:100%;" />
 
-</div>
+</div> -->
 
 ---
 
