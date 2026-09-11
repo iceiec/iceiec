@@ -145,7 +145,7 @@ I'm an aspiring Software Engineer and Full-Stack Developer with a passion for cr
 - **Machine Learning** - Python-based ML fundamentals
 - **DevOps** - Docker and Kubernetes orchestration -->
 
-<!-- --- --> -->
+<!-- --- --> 
 
 ## 💬 Let's Connect!
 
